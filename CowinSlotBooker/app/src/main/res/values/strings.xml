@@ -1,0 +1,41 @@
+<resources>
+        <string name="app_name">Vaccine Slot Booking</string>
+    <string name="user_information">User Information</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_details_desc">1. Enter Pincode, fee type and select beneficiary\n2. App will check for slots every 15 seconds.\n3 Once it finds a slot, it will book it automatically.\n4 The dose which is to be administered is automatically detected\n5 If you don\'t like the booked slot center, cancel the booking from website.</string>
+    <string name="free">Free</string>
+    <string name="paid">Paid</string>
+    <string name="please_select_beneficiary">Please select beneficiary</string>
+    <string name="please_enter_pincode">Please enter pincode</string>
+    <string name="book_slots">book slots</string>
+    <string name="how_it_works">How it works?</string>
+    <string name="booking_already_present">Booking already present for this beneficiary</string>
+
+    <string name="google_ads_id">ca-app-pub-3494460995981597~9285756406</string>
+    <string name="google_interstital_ad">ca-app-pub-3494460995981597/4963368014</string><!--Test-->
+
+    <string name="google_test_interstital_ad">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="login">Login</string>
+    <string name="book_slot">Book Slot</string>
+    <string name="unauthorised">Unauthorized. Please login again</string>
+    <string name="no_slot_available">No Slots Available</string>
+    <string name="first_dose">1st Dose</string>
+    <string name="second_dose">2nd Dose</string>
+
+    <string name="covishield">COVISHIELD</string>
+    <string name="covaxin">COVAXIN</string>
+    <string name="both">BOTH</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="something_went_wrong">Something went wrong. Please try again!</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="generate_otp">Generate OTP</string>
+</resources>

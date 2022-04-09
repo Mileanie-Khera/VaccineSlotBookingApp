@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "647277825478",
+    "project_id": "vaccine-slot-book",
+    "storage_bucket": "vaccine-slot-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647277825478:android:0bd17fd50aac5f872e36c7",
+        "android_client_info": {
+          "package_name": "com.logixtr.india.vaccinationslotbooker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647277825478-o4k486r1sfav7lva186ct2ivo4ts9nu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ9XlhELf24RM4oV79-jmqiR4SeHwJzYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647277825478-o4k486r1sfav7lva186ct2ivo4ts9nu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647277825478:android:0de1c2761342027a2e36c7",
+        "android_client_info": {
+          "package_name": "com.logixtr.vaccinebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647277825478-o4k486r1sfav7lva186ct2ivo4ts9nu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ9XlhELf24RM4oV79-jmqiR4SeHwJzYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647277825478-o4k486r1sfav7lva186ct2ivo4ts9nu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
